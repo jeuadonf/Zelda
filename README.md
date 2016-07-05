@@ -1,11 +1,9 @@
 # Zelda
-Une video :  https://www.youtube.com/watch?v=9HUbK7pUn5s
+Une video Demo:  https://www.youtube.com/watch?v=9HUbK7pUn5s
 
 </br>
 Episode Special qui met en scene Vondidi le frere de LINK.
 Le jeu se joue en mode RPG.
-(ce jeu est amateur)
-Bonjour!
 voici les choses a savoir sur le jeu.
 Source programmé en JAVA uniquement.Donc il faut java installe dans votre machine.
 
